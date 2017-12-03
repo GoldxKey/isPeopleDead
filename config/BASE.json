@@ -1,0 +1,26 @@
+{
+  "AUTO_TASK_CYCLE_TIME": 1,
+  "SOCIAL_INFO": {
+    "Douban": {
+      "name": "豆瓣",
+      "index": "https://www.douban.com/people/52861737/",
+      "DB_NAME": "douban",
+      "MAX_JUJMENT_NUMBER": 5,
+      "type": 1
+    },
+    "Zhihu": {
+      "name": "知乎",
+      "index": "https://www.zhihu.com/people/howel52/activities",
+      "DB_NAME": "zhihu",
+      "MAX_JUJMENT_NUMBER": 10,
+      "type": 2
+    },
+    "Weibo": {
+      "name": "新浪微博",
+      "DB_NAME": "weibo",
+      "uid": "1915752873",
+      "MAX_JUJMENT_NUMBER": -1,
+      "type": 3
+    }
+  }
+}
