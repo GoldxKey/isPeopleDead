@@ -1,5 +1,6 @@
 # 安装
 预先安装好 [PhantomJs](http://phantomjs.org/)
+
 `cd ./isPeopleDead && yarn install`
 
 # 配置
